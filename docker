@@ -1,1 +1,7 @@
 From "windows"
+Maintaniner "ashok"
+CMD "echo hello"
+Run "echo hi"
+Expose "1111"
+Expose "000"
+
