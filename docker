@@ -1,4 +1,6 @@
 FROM ubuntu
 Maintaniner "ashok"
 CMD "echo hello"
+Run "echo hi"
+
 
