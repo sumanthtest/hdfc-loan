@@ -1,3 +1,5 @@
 FROM ubuntu
+Maintaniner "ashok"
 
-
+RUN "echo hi"
+Run "echo hello"
